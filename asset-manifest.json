@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FirebaseChat/static/css/main.60099070.css",
+    "main.js": "/FirebaseChat/static/js/main.9501d445.js",
+    "index.html": "/FirebaseChat/index.html",
+    "main.60099070.css.map": "/FirebaseChat/static/css/main.60099070.css.map",
+    "main.9501d445.js.map": "/FirebaseChat/static/js/main.9501d445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60099070.css",
+    "static/js/main.9501d445.js"
+  ]
+}
