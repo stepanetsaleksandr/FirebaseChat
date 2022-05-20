@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.login-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Open Sans", sans-serif;
+}
